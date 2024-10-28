@@ -98,7 +98,7 @@ When conducting this project on housing trends in Central Texas, we made conscio
 
 ## Visualizations
 ### Visualization 1: Crime Rate Per 1000 people in Texas
-![image](https://github.com/user-attachments/assets/5b9f3a90-b351-494c-98d1-310fdbad05a6)
+<img width="989" alt="Screenshot 2024-10-28 at 5 51 15 PM" src="https://github.com/user-attachments/assets/117b7f75-962a-4339-bfe2-9781c3ba1873">
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
