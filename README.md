@@ -97,7 +97,7 @@ When conducting this project on housing trends in Central Texas, we made conscio
 * **Merged datasets:** Created a new data frame merging the census data and the crime data
 
 ## Visualizations
-### Visualization 1: Crime Rate Per 1000 people in Texas
+### Crime Rate Per 1000 people in Texas
 <img width="989" alt="Screenshot 2024-10-28 at 5 51 15 PM" src="https://github.com/user-attachments/assets/117b7f75-962a-4339-bfe2-9781c3ba1873">
 
 ## Contributing
