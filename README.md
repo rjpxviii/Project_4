@@ -40,7 +40,7 @@ After analyzing the data, our goal changed to predicting the crime rate per 1000
          * The cities and their crime rate per 1000 people. 
 
 ## Databases to be Used
-* [US census bureau:](https://api.census.gov/data/2022/acs/acs5) A Dataset that will allow us to get valuable information on the following features:
+* [US Census Bureau:](https://api.census.gov/data/2022/acs/acs5) A Dataset that will allow us to get valuable information on the following features:
     - Median Household Income
     - Poverty Rates
         - Percentage of Males under the Poverty Line
