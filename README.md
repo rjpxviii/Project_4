@@ -76,7 +76,7 @@ Note: Standard notation was used by Researchers to determine the rate of crime.
 **Optimization**
 
 1. Removed extraneous column of index 
-    The left column on the original
+    - The left column on the original
 2. Removed the feature "Percentage of Owner Lived" as it was deemed irrelevant and had a stronger than expected pull to the data.
 3. Utilized a new model to help identify the best fit of important features using GridSearchCV
 
