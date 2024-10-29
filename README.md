@@ -37,7 +37,7 @@ After analyzing the data, our goal changed to predicting the crime rate per 1000
 2. **Visualize Crime:**
 
      - Creating an interactive map that shows:
-         * The cities and their crime rate per 1000 people. 
+         * The cities in Texas where the color and size of the markers is determined by the crime rate. 
 
 ## Databases to be Used
 * [US Census Bureau:](https://api.census.gov/data/2022/acs/acs5) A Dataset that will allow us to get valuable information on the following features:
@@ -97,8 +97,9 @@ When conducting this project on housing trends in Central Texas, we made conscio
 * **Merged datasets:** Created a new data frame merging the census data and the crime data
 
 ## Visualizations
-### Crime Rate Per 1000 people in Texas
-<img width="989" alt="Screenshot 2024-10-28 at 5 51 15 PM" src="https://github.com/user-attachments/assets/117b7f75-962a-4339-bfe2-9781c3ba1873">
+### Crime Rate in Texas
+https://public.tableau.com/views/TexasCrimes/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+<img width="746" alt="Screenshot 2024-10-28 at 7 24 47 PM" src="https://github.com/user-attachments/assets/8a7373fe-e5b4-41bf-bb3f-4412ea1fc456">
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -109,4 +110,6 @@ This project is licensed under the MIT License.
 ## References
 
 1. Safewise "100 Safeset Cities in the US"
-   https://www.safewise.com/safest-cities-america/ 
+   https://www.safewise.com/safest-cities-america/
+2. GridSearchCV Documentation
+   https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
