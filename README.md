@@ -19,8 +19,6 @@ This repository contains a project aimed at predicting the safety of certain cit
 - [References](#references)
 
 
-
-
 ## Project Description
 For this project, we will analyze Census data alongside the National Incident-Based Reporting System to assess factors related to violent crime in Texas. 
 Our goal is to predict the safety of specific cities on a per capita basis. We will employ the classification model Random Forest, and will categorize the data based on various features. Throughout the project, we will leverage Python, Pandas, Matplotlib, and Tableau for different analytical tasks.
@@ -89,7 +87,7 @@ When conducting this project on housing trends in Central Texas, we made conscio
 * **Michael Sanchez:** Data collection and preprocessing (Census data), and PPT presentation.
 * **Griselda Rodriguez:** Data collection and preprocessing (FBI Crime Data), README.md file, and PPT presentation.
 * **Adil Baksh:** Data visualization, and PPT presentation.
-* **Santiago Cardenas:** Machine Learning Code, and PPT presentation.
+* **Ryan Pope:** Machine Learning Code, and PPT presentation.
 
 ## Data Standardization and Analysis
 
